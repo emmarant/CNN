@@ -5,4 +5,4 @@ This is material I created for a tutorial/lecture on Convolutional Neural Networ
 Both a lecture and a classification hands-on exercise are included in python notebook formats. For the hands-on notebook, a few different versions are included for running on different environments (google colab being one of them).   
 
 
-<span "style=color:gray">The good boy included in some of the photos is called Billy and his photos were used with his consent.</span>
+_(The good boy included in some of the photos is called Billy and his photos were used with his consent.)_
